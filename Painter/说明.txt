@@ -1,0 +1,18 @@
+Painter1
+	https://www.bilibili.com/video/BV1qy4y1x7yU?p=1&vd_source=cab6eb66ffa75b6966a27bbafb06a93b
+	主要学习《P4 MFC->画图，bmp图片加载功能，放大功能》
+Painter2
+	https://blog.csdn.net/weixin_44624721/article/details/103101608
+	【MFC】实现简单画板功能，包含画点、画线、矩形、棋盘，指定棋盘大小等功能。
+Painter3
+	https://www.bilibili.com/video/BV1T44y1N7Gd?p=1&vd_source=cab6eb66ffa75b6966a27bbafb06a93b
+	18更换并切换应用程序菜单
+	19菜单的编程控制
+	20使用快捷菜单
+	21工具按钮和菜单项相结合
+Painter4
+	https://www.bilibili.com/video/BV1T44y1N7Gd?p=5&vd_source=cab6eb66ffa75b6966a27bbafb06a93b
+	23状态栏的常见操作
+Painter5
+	http://www.360doc.com/content/12/1112/15/9200790_247407525.shtml
+	图形重绘
